@@ -1,0 +1,31 @@
+# IDE
+.claude/claude
+.vscode/
+.metals/
+.idea/
+*.iml
+
+# Build / compilation
+bin/
+*.class
+
+# Environnements
+.venv/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# LaTeX build
+rapport/build/
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.toc
+*.synctex.gz
+*.bbl
+*.blg
